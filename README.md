@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Busra Eskara!</h1>
 <h3 align="center">I'm a Computer Engineering Student.</h3>
 
-<p align="left"> <a href="https://twitter.com/busraeskara" target="blank"><img src="https://img.shields.io/twitter/follow/busraeskara?logo=twitter&style=for-the-badge" alt="busraeskara" /></a> </p>
-
 - 🔭 I’m currently working on **Artificial Intelligence.**
 
 - 🌱 I’m currently learning **Javascript.**
@@ -12,10 +10,6 @@
 - 💬 Ask me about **Python, HTML, CSS and MongoDB.**
 
 - 📫 How to reach me **eskarabusra@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
