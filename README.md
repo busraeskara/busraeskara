@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Busra Eskara!</h1>
 <h3 align="center">I'm a Computer Engineering Student.</h3>
 
-![Uploading giphy (12).gif…]()
+![giphy (12)](https://user-images.githubusercontent.com/74510793/195873065-c3984746-e95c-4290-bb4a-db05683858ed.gif)
 
 - 🔭 I’m currently working on **Artificial Intelligence.**
 
