@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Busra Eskara!</h1>
 <h3 align="center">I'm a Computer Engineering Student.</h3>
 
+![Uploading giphy (12).gif…]()
+
 - 🔭 I’m currently working on **Artificial Intelligence.**
 
 - 🌱 I’m currently learning **Javascript.**
